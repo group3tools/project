@@ -16,6 +16,7 @@ public class Tool2 {
      */
     public static void main(String[] args) {
         System.out.println("hi im eden ");
+         System.out.println("hi im hiwot ");
     }
     
 }
