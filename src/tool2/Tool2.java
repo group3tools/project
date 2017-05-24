@@ -18,6 +18,7 @@ public class Tool2 {
         System.out.println("hi im eden ");
          System.out.println("hi im hiwot ");
           System.out.println(" hiwot you are a big donkey -------from love eden-------");
+          System.out.println(" eden you are a big donkey and more donky than i thought -------from love hiwot-------");
     }
     
 }
